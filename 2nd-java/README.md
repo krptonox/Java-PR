@@ -1,0 +1,1 @@
+# Using SCANER CLASS to take Input-----
