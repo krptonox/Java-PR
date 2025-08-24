@@ -1,0 +1,1 @@
+# Using java for first time on \"Intellij IDEA\" and thats it for day one
