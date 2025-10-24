@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class Subarryaysum {
 
     public static void sum(int arr[]){
