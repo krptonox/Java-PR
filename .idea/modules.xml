@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array2D/Array2D.iml" filepath="$PROJECT_DIR$/Array2D/Array2D.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-PR.iml" filepath="$PROJECT_DIR$/Java-PR.iml" />
     </modules>
   </component>
