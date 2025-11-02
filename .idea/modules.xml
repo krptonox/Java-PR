@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Array2D/Array2D.iml" filepath="$PROJECT_DIR$/Array2D/Array2D.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-PR.iml" filepath="$PROJECT_DIR$/Java-PR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops/oops.iml" filepath="$PROJECT_DIR$/oops/oops.iml" />
     </modules>
   </component>
 </project>
