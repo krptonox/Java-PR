@@ -1,2 +1,1 @@
-Here i am practicing and upgrading my java programing from scratch to advance 
-I am pushing my daily new learning in java .........
+
