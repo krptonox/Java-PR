@@ -29,6 +29,8 @@
       <sourceFolder url="file://$MODULE_DIR$/24. java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/25. java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/26. java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/help-student" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/162. Find Peak Element" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

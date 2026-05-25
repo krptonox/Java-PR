@@ -1,8 +1,8 @@
 public class SubString {
     static void main() {
-        String s = "hellobye";
-        System.out.println(s.substring(2,5));
-        System.out.println(s.substring(5,8));
+        String s = "abcabcabcabc";
+//        System.out.println(s.substring(2,5));
+//        System.out.println(s.substring(5,8));
         subString(s);
     }
 

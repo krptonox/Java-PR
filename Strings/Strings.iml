@@ -11,6 +11,12 @@
       <sourceFolder url="file://$MODULE_DIR$/SubString_print" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Playing_with_number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/C.B-Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SubString_part2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sliding_Window" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ArrayList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String_to_Char_Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/744.Leet-Code" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
